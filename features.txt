@@ -1,6 +1,6 @@
 feature1
 feature2
-feature3
+feature3->features3.fix
 feature4
 feature5
 features7
